@@ -1,0 +1,45 @@
+{
+  "name": "eth-dex",
+  "version": "1.0.0",
+  "description": "An ethereum decentralized exchange",
+  "main": "index.js",
+  "author": "Marie-Lou Le Jan",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.13.0"
+  },
+  "dependencies": {
+    "@acala-network/contracts": "^4.3.6",
+    "@openzeppelin/contracts": "^4.8.2",
+    "bootstrap": "^5.2.3",
+    "dotenv": "^16.0.3",
+    "hardhat-gas-reporter": "^1.0.9",
+    "identicon.js": "^2.3.3",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.7.2",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

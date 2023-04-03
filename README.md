@@ -1,4 +1,3 @@
-# DECENTRALIZED EXCHANGE
+# DecentralizedExchange-DEX
 
 > Work in progress
-# DecentralizedExchange-DEX
